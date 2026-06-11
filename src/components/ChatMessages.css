@@ -1,0 +1,7 @@
+.chat-messages-container {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 16px 0;
+  scrollbar-width: thin;
+  scrollbar-color: #ccc transparent;
+}
