@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/genai": "^2.23.0",
     "dayjs": "^1.11.20",
     "groq-sdk": "^1.1.2",
     "react": "^18.3.1",
